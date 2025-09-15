@@ -9,6 +9,10 @@ Activity 2:
 ![Activity 2 a](screenshots/Activity2_a.png)
 ![Activity 2 b](screenshots/Activity2_b.png)
 
+Activity 3:
+![Activity 3 a](screenshots/Activity3_a.png)
+![Activity 3 b](screenshots/Activity3_b.png)
+
 # Personal Portfolio ⚡️
 
 > A clean, beautiful, responsive portfolio template for Software Developers!
