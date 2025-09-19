@@ -13,6 +13,15 @@ Activity 3:
 ![Activity 3 a](screenshots/Activity3_a.png)
 ![Activity 3 b](screenshots/Activity3_b.png)
 
+Activity 4:
+![Activity 4 a](screenshots/Activity4_a.png)
+![Activity 4 b](screenshots/Activity4_b.png)
+
+Activity 5:
+![Activity 5 a](screenshots/Activity5_a.png)
+![Activity 5 b 1](screenshots/Activity5_b_1.png)
+![Activity 5 b 2](screenshots/Activity5_b_2.png)
+
 # Personal Portfolio ⚡️
 
 > A clean, beautiful, responsive portfolio template for Software Developers!
