@@ -507,8 +507,12 @@ utilized perspective transformation, object detection, and object tracking to fi
           </div>
           <script>
           function hideProject(){
-            var project = document.getElementById("project1");
-            project.style.display = "none";
+            const project_row = document.getElementById("project_row");
+            const projects = project_row.children;
+
+            let projects_array = [... projects];
+            projects[0].style.display = "none";
+            
           }
           window.onload = hideProject;
           </script>
