@@ -506,7 +506,7 @@ utilized perspective transformation, object detection, and object tracking to fi
             </div>
           </div>
 
-          <button type="button">See more!</button>
+          <button onclick="showProjects()">See more!</button>
           <script>
           function hideProjects(){
             const project_row = document.getElementById("project_row");
@@ -517,12 +517,20 @@ utilized perspective transformation, object detection, and object tracking to fi
             
             projects_array[0].style.display = "inline-block"
           }
+          function showProjects(){
+            const project_row = document.getElementById("project_row");
+            const projects = project_row.children;
+
+            let projects_array = [... projects];
+            projects_array.forEach(element => element.style.display = "inline-block");
+          }
           
           window.onload = hideProjects;
           </script>
 
           <!-- ************* -->
         </div>
+        <button onclick="showProjects()">See more!</button>
       </div>
     </section>
 
